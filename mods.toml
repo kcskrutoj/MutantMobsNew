@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mutantmobs"
+version="1.0.0"
+displayName="Mutant Mobs"
+description='''
+Adds three stronger zombie variants.
+'''
